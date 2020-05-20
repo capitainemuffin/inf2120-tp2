@@ -1,0 +1,66 @@
+==============
+test_i12_1
+--------------
+calculatrice :
+accumulateur = 16
+pile = []
+--------------
+profil :
+no = 4
+np = 0
+na = 8
+==============
+test_i12_2
+--------------
+calculatrice :
+accumulateur = 2
+pile = [-2]
+--------------
+profil :
+no = 5
+np = 17
+na = 7
+==============
+test_i23_3
+--------------
+profil : 
+no = 49767 
+np = 161741 
+na = 12440
+--------------
+tortue :
+positionX = -4.4454678809048865E-14
+positionY = -1.0
+direction = -4.71238898038469
+(( donne un dessin remplie de carre ))
+==============
+test_i23_4
+--------------
+no = 70217 
+np = 117031
+na = 93620
+--------------
+tortue :
+positionX = 1.959434878635764E-15
+positionY = 32.0
+direction = 1.5707963267948966
+pile = []
+(( dessine un 'arbre' ))
+==============
+test_i123_5
+--------------
+calculatrice :
+accumulateur = 0
+pile = []
+--------------
+profil :
+no = 10
+np = 2
+na = 23
+--------------
+tortue :
+positionX = 0.0
+positionY = 0.0
+direction = 0.0
+pile = []
+(( dessine une 'marche' ? (disons)))
